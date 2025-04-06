@@ -97,7 +97,17 @@ The Spheron ICL Chat Assistant is a hackathon project that combines a React fron
    VITE_API_URL=http://localhost:3000
    ```
 
-4. Start the development server:
+4. Ensure the assets folder exists in the public directory:
+   ```bash
+   mkdir -p public/assets
+   ```
+
+5. Place the logo file in the assets folder:
+   ```bash
+   cp path/to/logo.jpg public/assets/
+   ```
+
+6. Start the development server:
    ```bash
    npm run dev
    ```

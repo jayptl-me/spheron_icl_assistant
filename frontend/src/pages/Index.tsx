@@ -13,7 +13,7 @@ const Index = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center">
               <img 
-                src="/assets/logo.jpg" 
+                src={"/assets/logo.jpg"} 
                 alt="Spheron Logo" 
                 className="h-8 w-8 mr-3 rounded-full object-cover"
               />
@@ -255,7 +255,7 @@ const Index = () => {
             <div>
               <div className="flex items-center">
                 <img 
-                  src="/assets/logo.jpg" 
+                  src={"/assets/logo.jpg"} 
                   alt="Spheron Logo" 
                   className="h-8 w-8 mr-3 rounded-full object-cover"
                 />
