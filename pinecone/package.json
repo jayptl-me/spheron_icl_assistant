@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pinecone-database/pinecone": "^5.1.1",
+    "dotenv": "^16.4.7"
+  }
+}
