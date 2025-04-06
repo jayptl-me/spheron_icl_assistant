@@ -49,7 +49,7 @@ The Spheron ICL Chat Assistant is a hackathon project that combines a React fron
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/spheron_icl_assistant.git
+   git clone https://github.com/jayptl-me/spheron_icl_assistant.git
    cd spheron_icl_assistant/backend
    ```
 
@@ -227,6 +227,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- For issues and feature requests, please open an issue in the repository
-- For other inquiries: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- For issues and feature requests, please open an issue in the repository: [https://github.com/jayptl-me/spheron_icl_assistant/issues](https://github.com/jayptl-me/spheron_icl_assistant/issues)
+- For other inquiries: [info@jayptl.me](mailto:info@jayptl.me)
+- Twitter: [@jayptl_me](https://twitter.com/jayptl_me)
