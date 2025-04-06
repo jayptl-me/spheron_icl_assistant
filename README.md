@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Special thanks to Spheron for providing free credits enabling decentralized cloud hosting with NVIDIA RTX 4090 and RTX6000-ADA GPUs
-- Built during the Spheron Hackathon 2023, showcasing the capabilities of ICL and decentralized infrastructure
+- Built during the Spheron Hackathon 2025, showcasing the capabilities of ICL and decentralized infrastructure
 - Leverages Spheron's Infrastructure Configuration Language (ICL) for simplified deployment configuration
 - Thanks to the Pinecone team for vector database capabilities that power the RAG implementation
 - Gratitude to the open-source community for the tools and libraries that made this project possible
@@ -238,5 +238,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - For issues and feature requests, please open an issue in the repository: [https://github.com/jayptl-me/spheron_icl_assistant/issues](https://github.com/jayptl-me/spheron_icl_assistant/issues)
-- For other inquiries: [info@jayptl.me](mailto:info@jayptl.me)
+- For other inquiries: [contact@jayptl.me](mailto:contact@jayptl.me)
 - Twitter: [@jayptl_me](https://twitter.com/jayptl_me)
